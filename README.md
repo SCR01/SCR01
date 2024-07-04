@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharad Chandra Reddy</h1>
-<h3 align="center">A passionate frontend developGSSoC'24 | Cognizant Technoverse'23-Finalist | Ex- (Campus Ambassador- @Coding Ninjas) | MERN Stack Developer | Programmer </h3>
+<h3 align="center"> Contributor GSSoC'24 | Cognizant Technoverse'23-Finalist | Ex- (Campus Ambassador- @Coding Ninjas) | MERN Stack Developer | Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
 
