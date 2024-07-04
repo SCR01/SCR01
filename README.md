@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on [Open Source](https://github.com/SCR01/GameZone)
+- 👯 I’m looking to collaborate on [Open Source]
 
 - 🌴 Link_Tree [https://linktr.ee/SCR01](https://linktr.ee/SCR01)
 
