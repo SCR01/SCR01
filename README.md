@@ -56,9 +56,16 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/scr01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/scr01" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scr01&show_icons=true&locale=en&layout=compact" alt="scr01" /></p>
+## ⚙️ GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scr01&show_icons=true&locale=en" alt="scr01" /></p>
+![Sharad Chandra Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SCR01&show_icons=true&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scr01&" alt="scr01" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SCR01&layout=compact&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SCR01&theme=dark)
+
+
+## 📊 GitHub Activity Graph
+
+[![Sharad Chandra Reddy's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SCR01&bg_color=0d1117&color=58a6ff&line=58a6ff&point=444c56&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
