@@ -15,7 +15,7 @@
 
 - 🌴 Link_Tree [https://linktr.ee/SCR01](https://linktr.ee/SCR01)
 
-- 💬 Ask me about **Python, React and BlockChain**
+- 💬 Ask me about **MERN, DSA and AI**
 
 - 📫 How to reach me **sharadreddy11@gmail.com**
 
