@@ -2,12 +2,16 @@
 <h3 align="center"> Contributor GSSoC'24 | Cognizant Technoverse'23-Finalist | Ex- (Campus Ambassador- @Coding Ninjas) | MERN Stack Developer | Programmer </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Animated Coding" width="300" height="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Animated Coding" width="300" height="300" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scr01" alt="scr01" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=scr01&margin-w=15&margin-h=15&column=7&theme=gruvbox" alt="GitHub Trophies" />
+  </a>
+</div>
 
 <p align="left"> <a href="https://twitter.com/scr01111" target="blank"><img src="https://img.shields.io/twitter/follow/scr01111?logo=twitter&style=for-the-badge" alt="scr01111" /></a> </p>
 
