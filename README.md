@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sharad Chandra Reddy</h1>
 <h3 align="center"> Contributor GSSoC'24 | Cognizant Technoverse'23-Finalist | Ex- (Campus Ambassador- @Coding Ninjas) | MERN Stack Developer | Programmer </h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Animated Coding" width="500" height="500" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scr01" alt="scr01" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scr01" alt="scr01" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/scr01111" target="blank"><img src="https://img.shields.io/twitter/follow/scr01111?logo=twitter&style=for-the-badge" alt="scr01111" /></a> </p>
 
@@ -19,19 +23,9 @@
 
 - 📫 How to reach me **sharadreddy11@gmail.com**
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D12AQHN58g4mUfHrA/article-cover_image-shrink_600_2000/0/1679867911154?e=2147483647&v=beta&t=2r9IjTE48NU6a3iSdDC5gP1-hrUcfa0M8y5s3cX_2vw" alt="Profile Header Image" width="800" height="400" />
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
