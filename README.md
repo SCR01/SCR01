@@ -24,7 +24,7 @@
 - 📫 How to reach me **sharadreddy11@gmail.com**
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D12AQHN58g4mUfHrA/article-cover_image-shrink_600_2000/0/1679867911154?e=2147483647&v=beta&t=2r9IjTE48NU6a3iSdDC5gP1-hrUcfa0M8y5s3cX_2vw" alt="Profile Header Image" width="800" height="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" heigh />
 </p>
 
 
