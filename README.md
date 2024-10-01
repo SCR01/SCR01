@@ -2,7 +2,7 @@
 <h3 align="center"> Contributor GSSoC'24 | Cognizant Technoverse'23-Finalist | Ex- (Campus Ambassador- @Coding Ninjas) | MERN Stack Developer | Programmer </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Animated Coding" width="500" height="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" alt="Animated Coding" width="300" height="300" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
@@ -24,7 +24,7 @@
 - 📫 How to reach me **sharadreddy11@gmail.com**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" heigh />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" heigh="400" />
 </p>
 
 
