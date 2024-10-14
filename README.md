@@ -34,7 +34,7 @@
 <h3 align="left">Holopin Badges:</h3>
 <p align="left">
   <a href="https://holopin.io/@scr01" target="blank">
-    <img src="https://holopin.me/scr01" alt="Holopin Badges" />
+    <img src="https://holopin.io/@scr01" alt="Holopin Badges" />
   </a>
 </p>
 
