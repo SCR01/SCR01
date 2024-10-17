@@ -9,13 +9,9 @@
 
 
 
-  <!-- GitHub Skyline Preview -->
  <div align="center">
-  <a href="https://github.com/scr01">
-    <img src="https://github-profile-summary.vercel.app/api?username=scr01&theme=gruvbox" alt="GitHub Activity Graph" />
-  </a>
+  <img src="https://wakatime.com/share/@scr01/your-wakatime-stats.svg" alt="WakaTime Stats" />
 </div>
-
 
 
 <p align="left"> <a href="https://twitter.com/scr01111" target="blank"><img src="https://img.shields.io/twitter/follow/scr01111?logo=twitter&style=for-the-badge" alt="scr01111" /></a> </p>
