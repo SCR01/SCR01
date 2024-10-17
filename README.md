@@ -10,7 +10,10 @@
 
 
  <div align="center">
-  <img src="https://wakatime.com/share/@scr01/your-wakatime-stats.svg" alt="WakaTime Stats" />
+  <a href="https://github.com/scr01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scr01&layout=compact&theme=gruvbox" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=scr01&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  </a>
 </div>
 
 
