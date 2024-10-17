@@ -7,16 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/scr01">
-    <img src="https://github-readme-stats.vercel.app/api?username=scr01&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-  </a>
+
 
   <!-- GitHub Skyline Preview -->
+  <div>
   <p>
     <a href="https://skyline.github.com/scr01/2024" target="_blank">
-      <img src="https://raw.githubusercontent.com/scr01/repo/main/skyline-preview.jpg" alt="GitHub Skyline Preview" />
+      <img src="https://i.imgur.com/yourImageId.jpg" alt="GitHub Skyline Preview" />
     </a>
   </p>
 </div>
