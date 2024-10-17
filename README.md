@@ -7,9 +7,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scr01&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>3D Contributions Graph</title>
+  <style>
+    body { margin: 0; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <script src="https://threejs.org/build/three.js"></script>
+  <script>
+    // Basic Three.js setup code goes here
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    document.body.appendChild(renderer.domElement);
+    // Add your graph generation logic here
+    const animate = function () {
+      requestAnimationFrame(animate);
+      renderer.render(scene, camera);
+    };
+    animate();
+  </script>
+</body>
+</html>
 
 
 
