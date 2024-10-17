@@ -7,9 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
 
-
-
-
 <p align="left"> <a href="https://twitter.com/scr01111" target="blank"><img src="https://img.shields.io/twitter/follow/scr01111?logo=twitter&style=for-the-badge" alt="scr01111" /></a> </p>
 
 - 🔭 I’m currently working on **CodeJung**
