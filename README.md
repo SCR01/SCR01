@@ -7,35 +7,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>3D Contributions Graph</title>
-  <style>
-    body { margin: 0; }
-    canvas { display: block; }
-  </style>
-</head>
-<body>
-  <script src="https://threejs.org/build/three.js"></script>
+<div align="center">
+  <canvas id="myChart"></canvas>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
-    // Basic Three.js setup code goes here
-    const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-    const renderer = new THREE.WebGLRenderer();
-    renderer.setSize(window.innerWidth, window.innerHeight);
-    document.body.appendChild(renderer.DomElement);
-    // Add your graph generation logic here
-    const animate = function () {
-      requestAnimationFrame(animate);
-      renderer.render(scene, camera);
-    };
-    animate();
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const myChart = new Chart(ctx, {
+      type: 'radar', // You can also use 'polarArea' for a different look
+      data: {
+        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
+        datasets: [{
+          label: 'Contributions',
+          data: [12, 19, 3, 5, 2, 3, 7],
+          backgroundColor: 'rgba(75, 192, 192, 0.2)',
+          borderColor: 'rgba(75, 192, 192, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        scales: {
+          r: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
   </script>
-</body>
-</html>
+</div>
 
 
 
