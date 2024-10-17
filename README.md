@@ -6,33 +6,8 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
-
 <div align="center">
-  <canvas id="myChart"></canvas>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script>
-    const ctx = document.getElementById('myChart').getContext('2d');
-    const myChart = new Chart(ctx, {
-      type: 'radar', // You can also use 'polarArea' for a different look
-      data: {
-        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
-        datasets: [{
-          label: 'Contributions',
-          data: [12, 19, 3, 5, 2, 3, 7],
-          backgroundColor: 'rgba(75, 192, 192, 0.2)',
-          borderColor: 'rgba(75, 192, 192, 1)',
-          borderWidth: 1
-        }]
-      },
-      options: {
-        scales: {
-          r: {
-            beginAtZero: true
-          }
-        }
-      }
-    });
-  </script>
+  <iframe src="https://your-sketch-link" width="600" height="400" frameborder="0"></iframe>
 </div>
 
 
