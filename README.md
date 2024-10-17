@@ -6,9 +6,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scr01&label=Profile%20views&color=0e75b6&style=flat" alt="scr01" /> </p>
-<div align="center">
-  <iframe src="https://your-sketch-link" width="600" height="400" frameborder="0"></iframe>
-</div>
+
 
 
 
