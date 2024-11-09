@@ -56,8 +56,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/scr01"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/scr01" /></a></p><br><be>
 
-## 🐍 GitHub Contribution Snake Game
-![GitHub Snake Animation](https://github.com/SCR01/SCR01/raw/output/github-snake.svg)
 
 
 
